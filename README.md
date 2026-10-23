@@ -11,7 +11,7 @@ This is an AI-assisted decision-support system designed for early, non-invasive 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/flock_watch_demo.git](https://github.com/YOUR_USERNAME/flock_watch_demo.git)
+   git clone https://github.com/ManuelCardia/flock_watch_demo
    cd flock_watch_demo
 
 2. Set up virtual environment
